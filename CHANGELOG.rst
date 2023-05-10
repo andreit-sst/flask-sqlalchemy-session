@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Version 1.2
+-----------
+
+- Add support for Werkzeug 2.1.
+
+
 Version 1.1
 -----------
 
