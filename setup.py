@@ -22,7 +22,7 @@ if os.path.abspath(__file__).split(os.path.sep)[1] == 'vagrant':
 
 setup(
     name="Flask-SQLAlchemy-Session",
-    version="1.1",
+    version="1.2",
     packages=["flask_sqlalchemy_session"],
     author="Dimitris Theodorou",
     author_email="dimitris.theodorou@gmail.com",
